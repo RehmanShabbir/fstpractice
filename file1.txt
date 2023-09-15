@@ -1,8 +1,2 @@
 this line is first cooment
-This line is also feature1
-This line is also feature1
-This line is also feature2
-This line is also feature2
-this line is 3rd comment
-
-This line is also feature3
+this line is first cooment
