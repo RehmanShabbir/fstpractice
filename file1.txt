@@ -1,2 +1,12 @@
 this line is first cooment
-this line is first cooment
+This line is also feature1
+This line is also feature1
+This line is also feature2
+<<<<<<< HEAD
+This line is also feature2
+this line is 3rd comment
+
+This line is also feature3
+=======
+This line is also feature2
+>>>>>>> 82a773782c7f3ee53e2b96ddf74d7683697a3bf3
